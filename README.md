@@ -154,3 +154,7 @@ try {
 | 30002 | Account has reached API quota limit |
 
 See the full list at [akismet.com/developers/detailed-docs/errors](https://akismet.com/developers/detailed-docs/errors/).
+
+## License
+
+MIT, see [LICENSE](LICENSE).
